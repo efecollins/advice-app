@@ -12,10 +12,3 @@ const getAdvice = async () => {
 }
 
 dice.addEventListener("click", getAdvice);
-
-// function setAdvice() {
-//     document.querySelector('.id').innerHTML = toString(adviceObject.slip.id);
-    // document.querySelector('quote').innerHTML = toString(adviceObject.slip.advice);
-// }
-
-// setAdvice();
