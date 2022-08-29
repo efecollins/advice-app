@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Advice-App Screenshot](images/advice-app.png)
+![Advice-App Screenshot](./images/advice-app.png)
 
 ### Links
 
