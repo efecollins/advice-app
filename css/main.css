@@ -71,6 +71,7 @@ p.quote {
     top: 3rem;
     margin: auto;
     transition: box-shadow 1s ease .05s;
+    border: none;
 }
 
 .dice-bg:hover {

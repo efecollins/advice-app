@@ -1,4 +1,4 @@
-let dice = document.querySelector(".dice");
+let dice = document.querySelector(".dice-bg");
 
 // store async function in a variable
 const getAdvice = async () => {
